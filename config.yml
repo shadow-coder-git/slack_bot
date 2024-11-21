@@ -1,0 +1,12 @@
+creds:
+  channel_id: <channel_id>
+  enterprise_url: https://github.com/api/v3
+  github_token: <github_token> # Generate this going to https://github.disney.com/settings/tokens
+  google_sheet_name: <google_sheet_name>
+  google_sheet_token: <path to google token json> # To authenticate Google Sheet
+  google_worksheet_name: <google_worksheet_name>
+  organization: <organization_name/username>
+  repo: <repo_name>
+  search_re_pattern: <search_message_token>
+  slack_bot_token: <slack_bot_token>
+  slack_last_fetch_date: <the date from which you want to fetch the message>
